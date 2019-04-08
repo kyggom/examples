@@ -8,6 +8,7 @@
 </head>
 <body>
 	<h3>${msg}</h3>
-	Name : ${name} ID : ${id}
+	Name : ${name} <br>
+	ID : ${id}
 </body>
 </html>

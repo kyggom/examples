@@ -9,10 +9,10 @@
 <body>
 	<form method="POST" action="employee" modelAttribute="employee">
 		<label path="name">Name</label>
-		<input path="name" /><br>
+		<input name="name" /><br>
 
 		<label path="id">Id</label>
-		<input path="id" /><br>
+		<input name="id" /><br>
 
 		<input type="submit" value="Submit" />
 	</form>
